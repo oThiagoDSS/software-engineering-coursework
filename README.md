@@ -1,10 +1,10 @@
 # 🎓 Software Engineering Academic Repository
 
-[![Degree](https://img.shields.io/badge/Degree-Systems_Analysis_%26_Development_(ADS)-blue.svg?style=for-the-badge&logo=academic-pages)](https://www.ceub.br)
-[![Course](https://img.shields.io/badge/Course-Software_Engineering-00599C.style=for-the-badge&logo=diagramsdotnet)](https://github.com/oThiagoDSS)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Mermaid](https://img.shields.io/badge/Diagrams-Mermaid.js-ff69b4.svg?style=for-the-badge&logo=mermaid)](https://mermaid.js.org/)
+[![Degree](https://img.shields.io/badge/Degree-Systems_Analysis_%26_Development_%28ADS%29-blue?style=for-the-badge&logo=graduation-cap)](https://www.ceub.br)
+[![Course](https://img.shields.io/badge/Course-Software_Engineering-00599C?style=for-the-badge&logo=diagramsdotnet)](https://github.com/oThiagoDSS)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Mermaid](https://img.shields.io/badge/Diagrams-Mermaid.js-ff69b4?style=for-the-badge&logo=mermaid)](https://mermaid.js.org/)
 
 This repository contains the complete academic coursework, technical documentation, UML 2.0 diagrams, architectural designs, requirements specifications, and case studies developed for the **Software Engineering** discipline in the **Systems Analysis and Development (ADS)** undergraduate program at **CEUB**.
 
