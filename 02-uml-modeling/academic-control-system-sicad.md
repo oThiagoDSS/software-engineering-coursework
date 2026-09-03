@@ -56,3 +56,10 @@ classDiagram
     ClassSection "1" -- "*" Enrollment
     Professor "1" -- "*" ClassSection
     Course "1" -- "*" ClassSection
+
+```
+
+## 4. Use Case Scenarios
+
+1. **Grade Submission:** Professor authenticates, selects an assigned class section, inputs grades for enrolled students, and locks the grade sheet upon final submission.
+2. **Course Enrollment:** Student selects available sections during the registration window, verifies prerequisites, and confirms enrollment.
