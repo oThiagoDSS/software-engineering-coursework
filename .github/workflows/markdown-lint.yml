@@ -1,1 +1,19 @@
-wip
+name: Lint Markdown
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Markdown Lint
+        uses: markdownlint/markdownlint-action@v2
+        with:
+          globs: '**/*.md'
