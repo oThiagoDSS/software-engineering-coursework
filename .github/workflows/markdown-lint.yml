@@ -15,3 +15,5 @@ jobs:
 
       - name: Run Markdown Lint
         uses: gaurav-nelson/github-action-markdown-lint@v1
+        with:
+          config-file: '.markdownlint.json'
