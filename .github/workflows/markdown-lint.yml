@@ -1,4 +1,4 @@
-name: Lint Markdown
+name: Markdown Linting
 
 on:
   push:
@@ -7,13 +7,11 @@ on:
     branches: [ main, master ]
 
 jobs:
-  lint:
+  markdown-lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
       - name: Run Markdown Lint
-        uses: markdownlint/markdownlint-action@v2
-        with:
-          globs: '**/*.md'
+        uses: gaurav-nelson/github-action-markdown-lint@v1
