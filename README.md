@@ -61,3 +61,24 @@ classDiagram
     }
     Person <|-- Student
     Person <|-- Professor
+
+```
+
+---
+
+## 🛠 Tools, Notations & Frameworks
+
+* **Modeling & Notation:** UML 2.0 (StarUML, Visual Paradigm, Mermaid.js), Entity-Relationship Diagramming (ERD), BPMN 2.0.
+* **Methodologies & Frameworks:** Agile (Scrum, Kanban), DevOps (CI/CD, Automated Testing), ITIL 4 Service Management.
+* **Prototyping & Collaboration:** Figma, Git/GitHub, Markdown, JIRA/Trello.
+
+---
+
+## 👤 Author
+
+**Thiago Santos**
+
+*Systems Analysis and Development Student | CEUB (Brasília, Brazil)*
+
+* **GitHub:** [@oThiagoDSS](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/oThiagoDSS)
+* **Integrated Capstone Project:** [PsiCare Platform Repository](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/oThiagoDSS/psicare-platform)
