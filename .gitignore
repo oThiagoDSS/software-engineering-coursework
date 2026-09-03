@@ -1,1 +1,21 @@
-wip
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Dependency folders
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files & Build output
+*.tmp
+*.log
+dist/
+build/
