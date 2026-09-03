@@ -2,7 +2,7 @@
 
 [![Degree](https://img.shields.io/badge/Degree-Systems_Analysis_%26_Development_%28ADS%29-blue?style=for-the-badge&logo=graduation-cap)](https://www.ceub.br)
 [![Course](https://img.shields.io/badge/Course-Software_Engineering-00599C?style=for-the-badge&logo=diagramsdotnet)](https://github.com/oThiagoDSS)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)](https://github.com/oThiagoDSS)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Mermaid](https://img.shields.io/badge/Diagrams-Mermaid.js-ff69b4?style=for-the-badge&logo=mermaid)](https://mermaid.js.org/)
 
@@ -13,6 +13,7 @@ This repository contains the complete academic coursework, technical documentati
 ## 📌 Course Overview & Objectives
 
 The primary objective of this discipline is to instill solid software engineering principles, covering the complete Software Development Life Cycle (SDLC):
+
 * **Requirements Engineering:** Elicitation, analysis, classification (User, System, Functional, Non-Functional), and validation.
 * **Systems Modeling:** Object-Oriented Analysis & Design (OOAD) using standard UML 2.0 notation (Use Cases, Class Diagrams, Sequence Diagrams).
 * **Software Architecture & Component Design:** Monolithic vs. Microservices, RESTful API design, Component Diagrams, and Entity-Relationship Modeling (ERD).
@@ -38,6 +39,7 @@ The primary objective of this discipline is to instill solid software engineerin
 All diagrams in this repository are authored in **Mermaid.js**, rendering natively in GitHub Markdown. Raw image assets exported from modeling tools are archived in [`/docs/assets`](./docs/assets).
 
 ### Academic Control System (SiCAd) - Class Diagram Preview
+
 ```mermaid
 classDiagram
     class Person {
@@ -76,9 +78,9 @@ classDiagram
 
 ## 👤 Author
 
-**Thiago Santos**
+### Thiago Santos
 
-*Systems Analysis and Development Student | CEUB (Brasília, Brazil)*
+Systems Analysis and Development Student | CEUB (Brasília, Brazil)
 
-* **GitHub:** [@oThiagoDSS](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/oThiagoDSS)
-* **Integrated Capstone Project:** [PsiCare Platform Repository](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/oThiagoDSS/psicare-platform)
+* **GitHub:** [@oThiagoDSS](https://github.com/oThiagoDSS)
+* **Integrated Capstone Project:** [PsiCare Platform Repository](https://github.com/oThiagoDSS/psicare-platform)
